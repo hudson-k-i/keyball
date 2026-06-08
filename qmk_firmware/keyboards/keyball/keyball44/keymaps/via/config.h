@@ -41,3 +41,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define SPLIT_USB_TIMEOUT 2500
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
 #define LAYER_STATE_8BIT
+#define TAPPING_TERM 200
+#define PERMISSIVE_HOLD
